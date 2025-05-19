@@ -62,6 +62,13 @@ Vercel – ideal for React-based applications
 
 🧩 Reusable components (in React version) for easier scalability and maintenance.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/70c968aa-6b0d-486f-88d3-e901ccf1d3f9)
+
+![Image](https://github.com/user-attachments/assets/ca092e72-8fe1-4dc9-9724-e78cd46ad68d)
+
+
 
 
 
